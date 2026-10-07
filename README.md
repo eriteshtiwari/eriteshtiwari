@@ -1,7 +1,7 @@
 ## Hi I am Ritesh Tiwary👋
 ## About me
 Masters in Computer Applications
-Writer turns Developer
+-Writer turns Developer
 
 -
 -
