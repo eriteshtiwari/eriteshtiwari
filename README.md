@@ -4,6 +4,13 @@ Masters in Computer Applications
 
 
 Writer turns Developer
+## Tech Stack
+-Java
+-C++
+-Python
+-SQL
+-Burpsuite
+-Wireshark
 
 -
 -
