@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I am Ritesh Tiwary👋
+## About me
+-Writer turns Developer
+
+-
+-
 
 <!--
 **eriteshtiwari/eriteshtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
