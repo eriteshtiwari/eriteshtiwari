@@ -1,6 +1,6 @@
 ## Hi I am Ritesh Tiwary👋
 ## About me
--Writer turns Developer
+Writer turns Developer
 
 -
 -
